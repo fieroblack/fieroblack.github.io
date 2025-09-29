@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "d23e7eb5976e01a503689e7eca6ad0aa",
+const RESOURCES = {"flutter_bootstrap.js": "8c39f95bd1fedb128fbfe2d8144db91e",
 "version.json": "68cb009ec02452f22d9b7283099aaa61",
 "index.html": "909d94eff0c59ccfc859fcbe7255fcff",
 "/": "909d94eff0c59ccfc859fcbe7255fcff",
-"main.dart.js": "cf3e5f55513965c3404072df05c7ea75",
+"main.dart.js": "5ea26be0f4ea5ad8b04b13c262f9873d",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
 "favicon.png": "eab02f75d91e2d2f8f26dfe295e3acc7",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -23,7 +23,7 @@ const RESOURCES = {"flutter_bootstrap.js": "d23e7eb5976e01a503689e7eca6ad0aa",
 "assets/packages/wakelock_plus/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "23fd02a61faec931b01440ea20d987d5",
-"assets/fonts/MaterialIcons-Regular.otf": "f2e6da26ca89091a0a037e6f749a5d56",
+"assets/fonts/MaterialIcons-Regular.otf": "b63139e815544602ef71c383705d3fce",
 "assets/assets/video/viaggio.mp4": "ada9cd43a441877adbc9a829da1382b7",
 "assets/assets/images/foto8.jpeg": "326b8893cdcb1738257b9f9791baee91",
 "assets/assets/images/foto12.jpeg": "588ff2171ad7266c9badae79af514e7d",
