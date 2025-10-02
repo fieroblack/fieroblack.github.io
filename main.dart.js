@@ -56068,7 +56068,7 @@ else{if(r==="/home")q="Alessia & Davide"
 else if(r==="/story")q="La nostra storia"
 else if(r==="/info")q="Informazioni"
 else if(r==="/trip")q="Viaggio di nozze"
-else q="Album"
+else q=r==="/album"?"Album":"Album - v.2.3.0"
 q=A.be(q,s,s,s,B.qH,s,s,s,s)}return A.b3c(B.bd,!0,q,p)},
 gHK(){return new A.L(1/0,!this.c?80:50)}}
 A.qy.prototype={
